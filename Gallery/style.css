@@ -1,0 +1,42 @@
+body{
+    background-color: cornsilk;
+}
+h1{
+    color: burlywood;
+    text-align: center;
+    text-shadow: 2px 2px black;
+}
+.subtitle{
+    color:cadetblue;
+    text-align: center;
+    text-decoration: underline;
+}
+a{
+    color: cadetblue;
+    text-decoration: none;
+}
+p{
+    text-align: center;
+}
+img{
+    width: 400px;
+    height:auto;
+
+}
+
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-end;
+
+}
+.socialmedia{
+    color: red;
+    
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+}
